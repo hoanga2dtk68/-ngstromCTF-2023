@@ -1,2 +1,2 @@
-# -ngstromCTF-2023
+# AngstromCTF-2023
 ångstromCTF 2023 
